@@ -3,7 +3,7 @@ I also have enthusiasm for everything in the data field, especially how we can p
 
 Let's connect -> https://www.linkedin.com/in/galang-imanta-ba9491140/
 
-For my portfolio about visualization -> https://public.tableau.com/app/profile/galang.imanta4883/vizzes
+For data visualization project-> https://public.tableau.com/app/profile/galang.imanta4883/vizzes
 
 <!---
 GalangImanta97/GalangImanta97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

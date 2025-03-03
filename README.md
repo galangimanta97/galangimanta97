@@ -1,6 +1,7 @@
-👋 Hi, I’m Galang Imanta and currently I live in Bogor, Indonesia. Previously I've experienced in the field of Analyst like Data Analyst and Business Intelligence Analyst for more than 4 years. 
+👋 Hi, I’m Galang Imanta. I have more than four years of experience as an analyst, including as a Data Analyst and Business Intelligence Analyst. 
 I also have enthusiasm for everything in the data field, especially how we can provide beneficial information using various methods for other people and companies.
 
+Connect : 
 Let's connect -> https://www.linkedin.com/in/galang-imanta-ba9491140/
 
 For data visualization project-> https://public.tableau.com/app/profile/galang.imanta4883/vizzes

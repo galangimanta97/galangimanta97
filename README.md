@@ -4,7 +4,7 @@
 💻 I've more than four years of experience as an analyst, including as a Data Analyst and Business Intelligence Analyst. I also have enthusiasm for everything in the data field, especially how we can provide beneficial information using various methods for other people and companies.  
   
 
-⚡ Fun fact: I love playing Dota 2 to calm myself down  
+⚡ Fun fact: I love playing Dota 2
   
 
 <br/>  
